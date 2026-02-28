@@ -236,6 +236,10 @@ The plugin tries each endpoint in order, with exponential backoff on 503:
 - [opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) — Authentication (required)
 - [opencode-antigravity-web](https://github.com/ominiverdi/opencode-antigravity-web) — Web search and URL reading
 
+## Original Plugin
+
+- [opencode-antigravity-img](https://github.com/ominiverdi/opencode-antigravity-img) — original source
+
 ---
 
 ## License
