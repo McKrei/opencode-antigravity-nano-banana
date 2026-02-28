@@ -1,7 +1,7 @@
-# opencode-antigravity-img
+# opencode-antigravity-nano-banana
 
-[![npm version](https://img.shields.io/npm/v/opencode-antigravity-img.svg)](https://www.npmjs.com/package/opencode-antigravity-img)
-[![npm downloads](https://img.shields.io/npm/dm/opencode-antigravity-img.svg)](https://www.npmjs.com/package/opencode-antigravity-img)
+[![npm version](https://img.shields.io/npm/v/opencode-antigravity-nano-banana.svg)](https://www.npmjs.com/package/opencode-antigravity-nano-banana)
+[![npm downloads](https://img.shields.io/npm/dm/opencode-antigravity-nano-banana.svg)](https://www.npmjs.com/package/opencode-antigravity-nano-banana)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 An [OpenCode](https://opencode.ai) plugin for generating and editing images using Google's latest Gemini image models, powered by the Antigravity/CloudCode API — no separate API key required.
@@ -37,7 +37,7 @@ Add both the auth plugin and this plugin to your `opencode.json`:
 {
   "plugin": [
     "opencode-antigravity-auth",
-    "opencode-antigravity-img"
+    "opencode-antigravity-nano-banana"
   ]
 }
 ```

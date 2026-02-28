@@ -1,5 +1,5 @@
 {
-  "name": "opencode-antigravity-img",
+  "name": "opencode-antigravity-nano-banana",
   "version": "0.3.0",
   "description": "OpenCode plugin for Gemini image generation via Antigravity/CloudCode API",
   "main": "src/index.ts",
@@ -17,13 +17,13 @@
     "generation",
     "google-cloud"
   ],
-  "author": "Lorenzo Becchi (ominiverdi)",
+  "author": "McKrei",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ominiverdi/opencode-antigravity-img.git"
+    "url": "git+https://github.com/McKrei/opencode-antigravity-nano-banana.git"
   },
-  "homepage": "https://github.com/ominiverdi/opencode-antigravity-img#readme",
+  "homepage": "https://github.com/McKrei/opencode-antigravity-nano-banana#readme",
   "private": false,
   "devDependencies": {
     "@types/bun": "latest",
