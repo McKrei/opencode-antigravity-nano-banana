@@ -1,10 +1,13 @@
 import { homedir } from "os";
 import { join } from "path";
 import { platform } from "process";
+import {
+  ANTIGRAVITY_CLIENT_ID,
+  ANTIGRAVITY_CLIENT_SECRET,
+} from "opencode-antigravity-auth/dist/src/constants";
 
-// OAuth credentials (same as antigravity-auth plugin)
-export const ANTIGRAVITY_CLIENT_ID = "1071006060591-tmhssin2h21lcre235vtolojh4g403ep.apps.googleusercontent.com";
-export const ANTIGRAVITY_CLIENT_SECRET = "REDACTED";
+export { ANTIGRAVITY_CLIENT_ID, ANTIGRAVITY_CLIENT_SECRET };
+
 export const GOOGLE_TOKEN_URL = "https://oauth2.googleapis.com/token";
 
 // CloudCode API
