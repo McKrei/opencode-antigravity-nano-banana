@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Lock files (keep bun.lock, ignore npm's)
+package-lock.json
+
+# Logs
+*.log
+npm-debug.log*
+bun-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test output images (generated during manual/automated testing)
+test_output/
+
+# OpenCode session data (project-level, not for sharing)
+.opencode/generated-image-sessions/
+
+# Environment / secrets
+.env
+.env.*
